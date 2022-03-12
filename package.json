@@ -1,7 +1,7 @@
 {
   "name": "tesla",
   "version": "0.1.0",
-  + "homepage": "https://vishalsnate.github.io/teslaclone/",
+  "homepage": "https://vishalsnate.github.io/teslaclone/",
   "private": true,
   "dependencies": {
     "@emotion/styled": "^11.8.1",
